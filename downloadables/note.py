@@ -1,3 +1,4 @@
+# Note to self: Broken on linux, rewrite this at some point!
 #!/usr/bin/env python3
 """
 ARC Notes - A TUI notes application with proper error handling
