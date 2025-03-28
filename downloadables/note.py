@@ -1,4 +1,4 @@
-# Note to self: Broken on linux, rewrite this at some point!
+# Some termenals like Foot and alacritty do not like this app, so try to ues another termenal.
 #!/usr/bin/env python3
 """
 ARC Notes - A TUI notes application with proper error handling
