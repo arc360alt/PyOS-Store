@@ -4,6 +4,7 @@ Weather Dashboard TUI Application
 A terminal-based weather app with location selection and emoji visualizations.
 There is no need to abuse my API, please dont use it in your own projects, create your own free API over at: weatherapi.com
 i am using the free plan so there is no need to steal my API key :D
+NEEDED PYTHON PACKAGES: requests, rich, textual, and curses-windows if your on windows.
 """
 import curses
 import time
